@@ -46,7 +46,7 @@ export default function Home() {
       </ul>
     </div>
   </div>
-</div>
+</div> 
       {/* Slider Section */}
       <div class="m-10">
       <div class="hero h-auto bg-[url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)]">
@@ -59,15 +59,15 @@ export default function Home() {
     </div>
   </div>
 </div>
-    </div>
+    </div> 
     {/* Added CheckIns Section */}
-    {/* <div class="mx-10">
-      <h1 class="font-semibold text-start text-xl">Added CheckIns</h1> */}
+    {/* <div class="mx-10"> */ }
+      <h1 class="font-semibold text-start text-xl">Added CheckIns</h1> 
       {/* Card Container */}
        
-{/* <div class=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4"> */}
+<div class=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4"> 
    {/* First Card */}
-    {/* <div class="card w-80 bg-base-100 shadow-xl p-4">
+   <div class="card w-80 bg-base-100 shadow-xl p-4">
     <figure class="px-10 pt-10">
     <img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -78,9 +78,9 @@ export default function Home() {
       <button class="btn btn-primary">Buy Now</button>
     </div>
   </div>
-    </div> */}
+    </div>
     {/* Second Card */}
-    {/* <div class="card w-80 bg-base-100 shadow-xl p-4">
+    <div class="card w-80 bg-base-100 shadow-xl p-4">
     <figure class="px-10 pt-10">
     <img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -91,9 +91,9 @@ export default function Home() {
       <button class="btn btn-primary">Buy Now</button>
     </div>
   </div>
-    </div> */}
+    </div> 
     {/* Third Card */}
-    {/* <div class="card w-80 bg-base-100 shadow-xl p-4">
+    <div class="card w-80 bg-base-100 shadow-xl p-4">
     <figure class="px-10 pt-10">
     <img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -104,9 +104,9 @@ export default function Home() {
       <button class="btn btn-primary">Buy Now</button>
     </div>
   </div>
-    </div> */}
+    </div> 
     {/* Forth Card */}
-    {/* <div class="card w-80 bg-base-100 shadow-xl p-4">
+    <div class="card w-80 bg-base-100 shadow-xl p-4">
     <figure class="px-10 pt-10">
     <img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -119,9 +119,9 @@ export default function Home() {
   </div>
     </div>
 </div> 
-  </div> */ }
+  {/* </div> */}
       
-    </div>
+  </div>
     
    
   )
