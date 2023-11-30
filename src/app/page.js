@@ -61,10 +61,10 @@ export default function Home() {
 </div>
     </div>
     {/* Added CheckIns Section */}
-    <div class="mx-10 ">
+    <div>
       <h1 class="font-semibold text-start text-xl">Added CheckIns</h1>
       {/* Card Container */}
-      <div class="grid grid-cols-4 space-x-5">
+      <div class="grid grid-cols-4 space-x-5 ">
         {/* First Card */}
       <div class="card w-80 bg-base-100 shadow-xl">
   <figure class="px-10 pt-10">
