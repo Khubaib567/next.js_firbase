@@ -19,9 +19,9 @@ function Card() {
   <div class="card-body items-center text-center">
     <h2 class="card-title">Shoes!</h2>
     <p>If a dog chews shoes whose shoes does he choose?</p>
-    <div class="card-actions">
+    {/* <div class="card-actions"> */}
     <CheckInBox />
-    </div>
+    {/* </div> */}
   </div>
     </div>
     {/* Second Card */}
