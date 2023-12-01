@@ -1,12 +1,14 @@
 import React from 'react'
 import CheckInBox from '@/widgets/CheckInBox'
+import AddCheckIn from '@/widgets/AddCheckIn'
 
 function Card() {
   return (
     <div>
         {/* Added CheckIns Section */}
       <div class="mx-10">
-      <h1 class="font-semibold text-start text-xl">Added CheckIns</h1> 
+      {/* <h1 class="font-semibold text-start text-xl">Added CheckIns</h1>  */}
+      <AddCheckIn />
       </div>
       {/* Card Container */}
        
